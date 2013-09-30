@@ -11,13 +11,13 @@ Background of the game:
 
 
 The rules are:
-	Scissors cut paper
-	Paper covers rock
-	Rock crushes lizard
-	Lizard poisons Spock
-	Spock smashes (or melts) scissors
-	Scissors decapitate lizard
-	Lizard eats paper
-	Paper disproves Spock
-	Spock vaporizes rock
+	Scissors cut paper,
+	Paper covers rock,
+	Rock crushes lizard,
+	Lizard poisons Spock,
+	Spock smashes (or melts) scissors,
+	Scissors decapitate lizard,
+	Lizard eats paper,
+	Paper disproves Spock,
+	Spock vaporizes rock,
 	Rock breaks scissors
