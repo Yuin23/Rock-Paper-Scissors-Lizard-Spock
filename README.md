@@ -1,6 +1,6 @@
 # Rock Paper Scissors Lizard Spock #
 
-- Task: 
+#### Task: ####
 	This project is to implement the game Rock-paper-scissors, with two addtional weapon, lizard and Spock. The code is written in javascript. 
 
 
@@ -11,15 +11,15 @@
 	see more details on http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock
 
 
-### - The rules are: ###
+#####	The rules are: #####
 
-	Scissors cut paper 
-	Paper covers rock 
-	Rock crushes lizard
-	Lizard poisons Spock
-	Spock smashes (or melts) scissors
-	Scissors decapitate lizard
-	Lizard eats paper
-	Paper disproves Spock
-	Spock vaporizes rock
-	Rock breaks scissors
+			Scissors cut paper 
+			Paper covers rock 
+			Rock crushes lizard
+			Lizard poisons Spock
+			Spock smashes (or melts) scissors
+			Scissors decapitate lizard
+			Lizard eats paper
+			Paper disproves Spock
+			Spock vaporizes rock
+			Rock breaks scissors
