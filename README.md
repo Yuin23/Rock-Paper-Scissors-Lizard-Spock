@@ -2,7 +2,6 @@
 
 
 ##### Task:	#####
-	
 This project is to implement the game Rock-paper-scissors, with two addtional weapon, lizard and Spock. The code is written in javascript. 
 
 
